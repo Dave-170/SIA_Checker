@@ -33,6 +33,7 @@ This Python script, named SIA_Checker, is designed to automate the extraction of
 ## Notes
 - The script uses headless mode by default. Modify `chrome_options.headless` to `False` in the `setup_driver()` function if you want to run it in a visible browser.
 - Ensure the required libraries are installed using `pip install -r requirements.txt`.
+- Security Industry Authority Register of Licence Holders data based used to check input Licences
 
 ## Contribution
 Contributions are welcome! Feel free to fork the repository, make improvements, and create a pull request. For detailed information and to contribute, visit the [GitHub repository](#).
